@@ -1,0 +1,23 @@
+# Setup
+title:               dyon
+tagline:             'blog'
+description:         'myblog'
+url:                 
+baseurl:             '/dyon'
+paginate:            5
+permalink:           /:title
+
+# About/contact
+author:
+  name:              Mdmin
+  url:               https://twitter.com/madmin
+  email:             madmin@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap 
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
