@@ -1,10 +1,10 @@
 # Setup
-title:               dyon
+title:               Astral
 tagline:             'blog'
 description:         'myblog'
 url:                 
-baseurl:             '/dyon'
-paginate:            5
+baseurl:             'https://astral.jasadukun.com'
+
 permalink:           /:title
 
 # About/contact
@@ -14,8 +14,7 @@ author:
   email:             madmin@gmail.com
 
 # Gems
-plugins:
-  - jekyll-paginate
+plugins:  
   - jekyll-sitemap 
 
 # Custom vars
