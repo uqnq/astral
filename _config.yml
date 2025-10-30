@@ -3,8 +3,8 @@ title:               Astral
 tagline:             'blog'
 description:         'myblog'
 url:                 'https://astral.jasadukun.com'
-baseurl:             ''   # kosong karena situs ada di root domain
-permalink:           '/:title'
+baseurl:             ''        # kosong karena situs di root subdomain
+permalink:           '/:title/'
 
 # About/contact
 author:
@@ -18,4 +18,4 @@ plugins:
 
 # Custom vars
 version:             '1.1.0'
-google_analytics_id: ''   # contoh: UA-XXXX-Y
+google_analytics_id: ''
