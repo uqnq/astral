@@ -3,7 +3,7 @@ title:               Astral
 tagline:             'blog'
 description:         'myblog'
 url:                 'https://astral.jasadukun.com'
-baseurl:             'https://astral.jasadukun.com'        # kosong karena situs di root subdomain
+baseurl:             '/'        # kosong karena situs di root subdomain
 permalink:           '/:title/'
 
 # About/contact
