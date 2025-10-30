@@ -2,9 +2,8 @@
 title:               Astral
 tagline:             'blog'
 description:         'myblog'
-url:                 
+url:                 '/'
 baseurl:             'https://astral.jasadukun.com'
-
 permalink:           /:title
 
 # About/contact
